@@ -1,6 +1,6 @@
 {
     "name": "@pavelglaz/eslint-plugin",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "description": "common eslint plugin",
     "main": "dist/index.js",
     "types": "dist/types/index.d.ts",
